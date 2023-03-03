@@ -1,4 +1,4 @@
-# StockPricePrediction-LSTM
+# Stock Price Prediction-LSTM
 
 The stock market, a labyrinth of numbers and trends, a place where even the slightest fluctuations can lead to billion dollar changes. But what if we could peer into this maze and gain a glimpse of the future? What if we could predict the movements of the market and make informed decisions on where to place our bets?
 
